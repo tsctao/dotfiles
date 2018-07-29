@@ -1,0 +1,6 @@
+if [[ -n $1 ]]; then
+  mkdir -p $1 && cd $1
+else
+  echo 'Missing directory name'
+  return 1
+fi

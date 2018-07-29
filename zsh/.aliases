@@ -1,0 +1,6 @@
+alias ls='ls -G' # colorize ls
+alias ll='ls -lh' # list in long format with size suffix
+
+alias grep='grep --color=auto'
+
+alias dl='cd ~/Downloads'

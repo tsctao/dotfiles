@@ -1,0 +1,2 @@
+#compdef p
+_alternative 'directory:directory:_path_files -W ~/Projects -/'
